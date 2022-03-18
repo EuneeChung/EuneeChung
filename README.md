@@ -1,12 +1,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEunee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=%20ee&fontSize=50&fontColor=ffffff&fontAlign=80" width="100%"/>
-<div align=center> 👋 Hi, there I'm Eunee </div>
+<div align=center> 👋 Hi, there I'm Eunee  
+  
+  I’m currently learning <b>Kotlin</b>, <b>Android</b>, <b>Backend</b>, <a href="https://github.com/EuneeChung/Algorithms"><b>Algorithm</b></a> and <b>Java</b> <br></div>
 
 <div align=center>
-  
-🌱 I’m currently learning <b>Kotlin</b>, <b>Android</b>, <b>Backend</b>, <a href="https://github.com/EuneeChung/Algorithms"><b>Algorithm</b></a> and <b>Java</b> <br>
-  <br>
   🌝 More about me  
   <p>
     <a href='mailto:chungee375@gmail.com' >
@@ -16,7 +15,6 @@
       <img src="https://img.shields.io/badge/Notion-white.svg?style=for-the-badge&logo=Notion&logoColor=black&style=flat-square"/>
     </a>
   </p>
-  <br>
 </div>
 
 <div align=center> <h3> 🚩 Tech Stack </h3></div>
@@ -38,17 +36,16 @@
 <img src="https://img.shields.io/badge/Jira Software-0052CC?style=for-the-badge&logo=JiraSoftware&logoColor=white&style=flat-square"/></a>
 <img src="https://img.shields.io/badge/Mattermost-1DA1F2?style=for-the-badge&logo=mattermost&logoColor=white&style=flat-square"/></a>
 <br>
-<br>
 
 </p>
 
 <div align="center">
-   <div style="display: flex; align-items: flex-start;">
-     <a href='https://solved.ac/chungee375' >
-       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chungee375" alt="Solved.ac 프로필">
+   <div style="display: flex; align-items: flex-start;" width="80%">
+     <a href='https://solved.ac/chungee375'>
+       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chungee375" width="33%" alt="Solved.ac 프로필">
      </a>
-     <a href="https://github.com/anuraghazra/github-readme-stats">
-       <img src="https://github-readme-stats.vercel.app/api?username=EuneeChung&show_icons=true&theme=vue" />
+     <a href="https://github.com/anuraghazra/github-readme-stats" width="150px">
+       <img src="https://github-readme-stats.vercel.app/api?username=EuneeChung&show_icons=true&theme=vue" width="40.5%"/>
      </a>
   </div>
 </div>
